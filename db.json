@@ -1,0 +1,36 @@
+{
+  "barang": [
+    {
+      "kode": "PSR212",
+      "nama": "Pasir",
+      "satuan": "Rit",
+      "harga": "800000",
+      "badan": "Aruna Jaya Perkasa",
+      "id": "EpvATwt"
+    },
+    {
+      "kode": "BTT341",
+      "nama": "Batu Kali",
+      "satuan": "Kubik",
+      "harga": "900000",
+      "badan": "Aneka Makmur",
+      "id": "b_qLxkz"
+    },
+    {
+      "kode": "BTT31",
+      "nama": "Batu Kali",
+      "satuan": "Kubik",
+      "harga": "900000",
+      "badan": "Aneka Makmur",
+      "id": "huKC3Tt"
+    },
+    {
+      "kode_barang": "PAP",
+      "nama": "Plywood",
+      "satuan": "Kubik",
+      "harga": "500000",
+      "badan": "Aruna",
+      "id": "tBZY8Gr"
+    }
+  ]
+}
