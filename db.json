@@ -1,6 +1,7 @@
 {
   "barang": [
-    {
+   [
+     {
       "kode": "PSR212",
       "nama": "Pasir",
       "satuan": "Rit",
@@ -33,4 +34,5 @@
       "id": "tBZY8Gr"
     }
   ]
+   ]
 }
